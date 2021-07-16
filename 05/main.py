@@ -4,7 +4,7 @@ from random import randint
 
 root = Tk()
 root.title("Jogo da velha")
-root.geometry('300x300')
+root.geometry('170x200')
 root.config(bg="white")
 
 

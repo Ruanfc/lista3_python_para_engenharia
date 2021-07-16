@@ -10,7 +10,7 @@ letras = '_'*len(palavra) # Mistério a ser revelado
 
 root = Tk()
 root.title("Jogo da forca")
-root.geometry('300x300')
+root.geometry('260x330')
 root.config(bg="white")
 
 #Imagem
